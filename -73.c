@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//for upload
 int main(int argc, const char * argv[]) {
     int n,rest[3]={0};
     scanf("%d",&n);
