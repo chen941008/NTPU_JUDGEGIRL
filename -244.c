@@ -4,7 +4,7 @@
 //
 //  Created by 陳宥愷 on 2024/10/11.
 //
-//for upload
+
 #include <stdio.h>
 int money(int special,int first,int number){
     int count=0;

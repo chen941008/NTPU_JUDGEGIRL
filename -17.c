@@ -1,5 +1,4 @@
 #include <stdio.h>
-//for upload
 int main(){
     int r,c,arr[100][100]={0};
     scanf("%d%d",&r,&c);

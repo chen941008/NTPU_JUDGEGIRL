@@ -4,7 +4,6 @@
 //
 //  Created by 陳宥愷 on 2024/10/11.
 //  test123
-
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
